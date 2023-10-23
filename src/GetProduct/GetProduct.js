@@ -35,7 +35,7 @@ export default function GetProduct() {
                 <h3 className='brand'>{cloth.brand}</h3>
                 <div className='title'>{cloth.title}</div>
                 <h4 className='price'>Rs {cloth.price}</h4><br />
-                <h3>Product Specification</h3>
+                <h3>Product Specifications</h3>
                 <div>Closure : Button</div>
                 <div>Fit : Regular</div>
                 <div>Material : Cotton</div>
