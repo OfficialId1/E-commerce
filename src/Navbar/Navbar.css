@@ -1,0 +1,11 @@
+.navbar>ul{ height: 45px; display: flex; justify-content: space-around; align-items: center;
+    background-color:blue; font-size: large;position: fixed;top: 0px;z-index: 1000;
+    width: 100vw;box-shadow: 0 0 8px 2px grey;}
+
+.navbar>ul>*{ list-style: none; }
+
+.navbar>ul>li>a{ text-decoration: none;color: white;padding: 2px;
+    text-shadow:1px 1px 3px gray;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+
+.navbar>ul>li>a:hover{color: yellow;}
+.active{color:yellow!important;text-shadow:0 0 3px yellow!important;}

@@ -1,0 +1,176 @@
+{
+  "shirts":[
+    {
+      "brand": "Roadster",
+      "title": "Low Collar Black Shirt",
+      "price": 400,
+      "imageSrc": "Shirt/1.png",
+      "id": 1
+    },
+     {
+      "brand": "Levis",
+      "title": "White Shirt",
+      "price": 1200,
+      "imageSrc": "Shirt/2.png",
+      "id": 2
+    },
+     {
+      "brand": "H&M",
+      "title": "Red Denim Shirt",
+      "price": 2000,
+      "imageSrc": "Shirt/3.png",
+      "id": 3
+    },
+     {
+      "brand": "HRX",
+      "title": "Half Sleeve Navy Shirt",
+      "price": 1800,
+      "imageSrc": "Shirt/4.png",
+      "id": 4
+    },
+     {
+      "brand": "Louis Philippe",
+      "title": "Checked Shirt",
+      "price": 1600,
+      "imageSrc": "Shirt/5.png",
+      "id": 5
+    },
+     {
+      "brand": "Adidas",
+      "title": "Black Shirt",
+      "price": 2200,
+      "imageSrc": "Shirt/6.png",
+      "id": 6
+    },
+     {
+      "brand": "Nike",
+      "title": "White Half Sleeve Shirt",
+      "price": 2800,
+      "imageSrc": "Shirt/7.png",
+      "id": 7
+    },
+     {
+      "brand": "Puma",
+      "title": "Beige Half Sleeve Shirt",
+      "price": 1999,
+      "imageSrc": "Shirt/8.png",
+      "id": 8
+    }
+  ],
+  "pants":[
+    {
+      "brand": "Roadster",
+      "title": "Olive Pant",
+      "price": 600,
+      "imageSrc": "Pant/1.png",
+      "id": 1
+    },
+     {
+      "brand": "Levis",
+      "title": "Light Grey Pant",
+      "price": 1200,
+      "imageSrc": "Pant/2.png",
+      "id": 2
+    },
+     {
+      "brand": "H&M",
+      "title": "Black Cargo Pant",
+      "price": 2500,
+      "imageSrc": "Pant/3.png",
+      "id": 3
+    },
+     {
+      "brand": "Red Chief",
+      "title": "Army Cargo Pant",
+      "price": 1500,
+      "imageSrc": "Pant/4.png",
+      "id": 4
+    },
+     {
+      "brand": "H&M",
+      "title": "Blue Army Cargo Pant",
+      "price": 1900,
+      "imageSrc": "Pant/5.png",
+      "id": 5
+    },
+     {
+      "brand": "H&M",
+      "title": "Brown Cargo Pant",
+      "price": 2100,
+      "imageSrc": "Pant/6.png",
+      "id": 6
+    },
+     {
+      "brand": "H&M",
+      "title": "Brown Plain Pant",
+      "price": 2000,
+      "imageSrc": "Pant/7.png",
+      "id": 7
+    },
+     {
+      "brand": "H&M",
+      "title": "Checked Brown Pant",
+      "price": 1400,
+      "imageSrc": "Pant/8.png",
+      "id": 8
+    }
+  ],
+  "tShirts":[
+    {
+      "brand": "Roadster",
+      "title": "Black T-Shirt",
+      "price": 500,
+      "imageSrc": "T-Shirt/1.png",
+      "id": 1
+    },
+     {
+      "brand": "Levis",
+      "title": "White T-Shirt",
+      "price": 1200,
+      "imageSrc": "T-Shirt/2.png",
+      "id": 2
+    },
+     {
+      "brand": "Louis Philippe",
+      "title": "Green T-Shirt",
+      "price": 900,
+      "imageSrc": "T-Shirt/3.png",
+      "id": 3
+    },
+     {
+      "brand": "Duke",
+      "title": "Red Polo T-Shirt",
+      "price": 1000,
+      "imageSrc": "T-Shirt/4.png",
+      "id": 4
+    },
+     {
+      "brand": "Adidas",
+      "title": "Black Polo T-Shirt",
+      "price": 1500,
+      "imageSrc": "T-Shirt/5.png",
+      "id": 5
+    },
+     {
+      "brand": "H&M",
+      "title": "Black Full Sleeve T-Shirt",
+      "price": 2300,
+      "imageSrc": "Shirt/6.png",
+      "id": 6
+    },
+     {
+      "brand": "Puma",
+      "title": "Black T-Shirt",
+      "price": 1800,
+      "imageSrc": "T-Shirt/7.png",
+      "id": 7
+    },
+     {
+      "brand": "Nike",
+      "title": "Printed Pink T-Shirt",
+      "price": 2000,
+      "imageSrc": "T-Shirt/8.png",
+      "id": 8
+    }
+  ]
+}
