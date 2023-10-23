@@ -39,6 +39,7 @@ export default function GetProduct() {
                 <div>Closure : Button</div>
                 <div>Fit : Regular</div>
                 <div>Material : Cotton</div>
+                <div>Color : Red</div>
             </div> 
         </div>
     </div>
