@@ -1,32 +1,3 @@
 {
-  "products": [
-    {
-      "brand": "H&M",
-      "title": "Red Denim Shirt",
-      "price": null,
-      "image": "http://localhost:3001/Shirt/3.png",
-      "id": 792
-    },
-    {
-      "brand": "H&M",
-      "title": "Black Cargo Pant",
-      "price": null,
-      "image": "http://localhost:3001/Pant/3.png",
-      "id": 869
-    },
-    {
-      "brand": "H&M",
-      "title": "Red Denim Shirt",
-      "price": null,
-      "image": "http://localhost:3001/Shirt/3.png",
-      "id": 887
-    },
-    {
-      "brand": "H&M",
-      "title": "Red Denim Shirt",
-      "price": null,
-      "image": "http://localhost:3001/Shirt/3.png",
-      "id": 871
-    }
-  ]
+  "products": []
 }

@@ -1,11 +1,11 @@
 import React from 'react';
-import './Login.css'
+import LoginStructure from '../Components/LoginStructure';
 
 export default function Login({setActive}) {
     setActive('btn3');
     
   return (
-    <div className='login'>
+    <LoginStructure>
       <form action="#">
           <div>
             <label for='email'>Email</label><br />
@@ -21,6 +21,6 @@ export default function Login({setActive}) {
           </div><br />
           <button id='login-button'>Login</button>
       </form>
-    </div>
+    </LoginStructure>
   )
 }
